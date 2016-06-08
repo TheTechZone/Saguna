@@ -1,0 +1,17 @@
+body{
+	font-family: Helvetica;
+}
+
+.dropzone {
+	width: 500px;
+	height: 500px;
+	border: 2px dashed #ccc;
+	color: #ccc;
+	line-height: 500px;
+	text-align: center;
+}
+
+.dropzone.dragover{
+	border-color: #000;
+	color: #000;
+}
